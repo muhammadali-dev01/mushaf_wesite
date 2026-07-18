@@ -1,0 +1,21 @@
+{
+  "name": "Mushaf Al Noor Online Quran Academy",
+  "short_name": "Mushaf Al Noor",
+  "description": "Professional Online Quran Learning Platform for Kids and Adults Worldwide.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7efe6",
+  "theme_color": "#f7efe6",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
